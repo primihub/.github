@@ -7,5 +7,5 @@
 <p align="center">We're building an open Data Privacy Protect Computation community.</p>
 
 <p align="center">
-  <a href="https://hackathon.openmpc.com/"> Hackathon</a> 💻 | <a href="https://docs.primihub.com/"> Documentations</a> 📓
+  <a href="https://hackathon.openmpc.com/"> Hackathon</a> 💻 | <a href="https://docs.primihub.com/"> Documentations</a> 📓 | <a href="https://github.com/primihub/community"> Community</a> 🙋‍
 </p>
