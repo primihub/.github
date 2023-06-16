@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://docs.primihub.com/">
-    <h1 align="center">PrimiHub</h1>
-  </a>
-</p>
-<h3 align="center">Your privacy matters!</h3>
-<p align="center">We're building an open Data Privacy Protect Computation community.</p>
+  <img src="https://raw.githubusercontent.com/helloprimihub/img/main/readme/header1.jpeg" alt="Header">
+  <br>
 
-<p align="center">
-  <a href="https://docs.primihub.com/"> Documentations</a> 📓 | <a href="https://github.com/primihub/community"> Community</a> 🙋‍ |  <a href="https://primihub.com/#/apply"> Try it online </a> 🌍
+  <p align="center"><strong>由密码学专家团队打造的开源隐私计算平台</strong></p>
+
+  <p align="center">
+    <a href="https://docs.primihub.com/"> 文档</a> 📓 | <a href="https://primihub.com/#/apply">在现尝试</a> 🙋‍ | <a href="https://primihub.com/">官网</a> 🌍
+  </p>
+
 </p>
