@@ -5,7 +5,7 @@
   <p align="center"><strong>由密码学专家团队打造的开源隐私计算平台</strong></p>
 
   <p align="center">
-    <a href="https://docs.primihub.com/"> 文档</a> 📓 | <a href="https://primihub.com/#/apply">在线尝试</a> 🙋‍ | <a href="https://primihub.com/">官网</a> 🌍 
+    <a href="https://docs.primihub.com/"> 文档</a> 📓 | <a href="https://primihub.com/#/apply">在线尝试</a> 🙋‍ | <a href="https://primihub.com/">官网</a> 🌍 | <a href="https://sigmasdu.github.io/">Sigma</a> <img src="https://sigmasdu.github.io/assets/apple-touch-icon.png" style="height: 16" alt="Sigma">
   </p>
 
 </p>
